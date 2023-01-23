@@ -1,4 +1,4 @@
-namespace Simple_Note_Taking_App;
+namespace Simple_Note_Taking_App.Views;
 
 public partial class AboutPage : ContentPage
 {
